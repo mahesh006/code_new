@@ -1,4 +1,5 @@
 # Radiology Report Generation
+![high-quality-architecture (1)](https://github.com/user-attachments/assets/050ea73a-8458-4e40-bbfa-86418becaa45)
 
 This repository implements a two-stage radiology report generation system using EfficientNet-B4 as the image encoder and GPT-2 for text generation.
 
